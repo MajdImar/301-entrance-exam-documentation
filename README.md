@@ -52,6 +52,7 @@ As a user, I would like to view all of my tasks that I already added so that I c
 **Strech Goal:** As a user, I would like to delete any task after being done so that I can handle my daily done tasks.
 - When you press on the 'X' button, the task should be deleted from the DOM and the local storage
 
+**Your final result should look like some how as the result at the attached video (201-assessment-exam-recording.mov)**
 
 #### Do this work on a branch called 'q3-solution'.
 
@@ -71,4 +72,6 @@ As a user, I would like to view all of my tasks that I already added so that I c
 ## Submission Instructions:
 - Submit the link of your GitHub repo for this project on slack as a direct message to your instructor.
 - Submit your live url after deploying your site with GitHub pages on slack as a direct message to your instructor.
+- Submit the link of your recordered video (you can upload it to your google drive, dropbox or send it directly on Slack to your instructor).
+- Summary: you have to submit (link of Github repo, live url and recording).
 - After completion the exam, do **NOT** commit or push anything to your repo.
