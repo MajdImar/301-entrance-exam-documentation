@@ -73,5 +73,5 @@ As a user, I would like to view all of my tasks that I already added so that I c
 - Submit the link of your GitHub repo for this project on slack as a direct message to your instructor.
 - Submit your live url after deploying your site with GitHub pages on slack as a direct message to your instructor.
 - Submit the link of your recordered video (you can upload it to your google drive, dropbox or send it directly on Slack to your instructor).
-- Summary: you have to submit (link of Github repo, live url and recording).
+- **Summary**: at the end, you have to submit (link of Github repo, live url and recording).
 - After completion the exam, do **NOT** commit or push anything to your repo.
