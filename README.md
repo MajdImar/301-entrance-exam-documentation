@@ -36,6 +36,7 @@ Write a function that will print out the following pattern in the console
 *****
 ```
 Please note your solution should be dynamic and not hardcoded using console logs ( Do NOT use five console logs in order to solve it )
+
 Once you finish, create a Pull Request from your current branch to master then merge.
 
 
@@ -70,8 +71,8 @@ As a user, I would like to view all of my tasks that I already added so that I c
 
 
 ## Submission Instructions:
-- Submit the link of your GitHub repo for this project on slack as a direct message to your instructor.
-- Submit your live url after deploying your site with GitHub pages on slack as a direct message to your instructor.
-- Submit the link of your recordered video (you can upload it to your google drive, dropbox or send it directly on Slack to your instructor).
+- Submit the link of your GitHub repo.
+- Submit your live url after deploying your site with GitHub pages.
+- Submit the link of your recordered video (you can upload it to your google drive or dropbox then share the link).
 - **Summary**: at the end, you have to submit (link of Github repo, live url and recording).
 - After completion the exam, do **NOT** commit or push anything to your repo.
